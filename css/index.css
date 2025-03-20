@@ -153,11 +153,11 @@ body {
 }
 
 .calendar-month-dates-day-from::before {
-  content: "Туда"
+  content: "Туда";
 }
 
 .calendar-month-dates-day-to::before {
-  content: "Обратно"
+  content: "Обратно";
 }
 
 .calendar-month-dates-day-in-range {
